@@ -1,2 +1,16 @@
-# CampusChatBot-Team5
-CampusChatBot-Team5
+# 🎓 Campus ChatBot - Team 5
+
+충남대학교 학사 정보 문의를 돕기 위한 AI 기반 분류 + 챗봇 시스템  
+Team 5 | 2025 CNU AI Term Project  
+
+---
+
+## 📌 프로젝트 개요
+
+> 학사 일정, 졸업 요건, 식단 안내, 학교 공지사항, 셔틀/통학버스 등  
+> 자주 묻는 질문을 AI 모델이 자동 분류하고,  
+> ChatGPT 기반 챗봇이 자연스럽게 답변을 제공하는 시스템입니다.
+
+---
+
+
